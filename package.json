@@ -1,0 +1,15 @@
+{
+  "name": "bun-bun",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun run index.ts"
+  },
+  "devDependencies": {
+    "bun-types": "^0.7.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "openai": "^4.6.0"
+  }
+}
